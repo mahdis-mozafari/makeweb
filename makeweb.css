@@ -1,0 +1,108 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+   background-color: rgb(197, 191, 178);
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid rgb(153, 142, 125);
+    
+}
+.login{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+section{
+    width: 1200px;
+    height: 200px;
+    border: 0.5px solid rgb(153, 142, 125);
+    border-radius: 10px;
+    position: absolute;
+    top: 150px;
+    display: flex;
+justify-content: center;
+margin: 0 55px ;
+}
+p{
+ display: flex;
+ /* justify-content: flex-end; */
+ align-items: end;
+ margin-right: 20px;
+}
+h1{
+    display: inline-block;
+    margin: 10px 20px;
+}
+.card{
+width: 300px;
+height: 400px;
+background-color: rgb(162, 151, 173);
+display: flex;
+justify-content: space-between;
+align-items: end;
+margin: 50px;
+border-radius: 10px;
+
+
+}
+.cards{
+    position: absolute;
+    display: flex;
+    justify-content:space-around;
+    align-items: flex-end;
+    width: 100%;
+    margin-top: 400px;
+    
+}
+.photo{
+    left: 13px;
+    bottom: 200px;
+    position: relative;
+    /* display: flex;
+    align-items: center; */
+}
+.Programming{
+    position: relative;
+    bottom: 150px;
+    left: 40px;
+}
+.dog{
+    position: relative;
+    bottom: 150px;
+    left: 40px;
+}
+.h21
+{
+    position: relative;
+    width: 120px;
+    height: 50px;
+    right: 150px;
+    bottom: 120px;
+}
+.h22{
+    position: relative;
+    width: 120px;
+    height: 50px;
+    right: 140px;
+    bottom: 100px;
+}
+.h23{
+    position: relative;
+    width: 120px;
+    height: 50px;
+    /* background-color: aqua; */
+    right: 130px;
+    bottom: 100px;
+}
+main a{
+font-size: 30px;
+display: flex;
+justify-content: center;
+}
+header a{
+    font-size: 25px;
+    
+}
+

@@ -1,0 +1,67 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+   background-color: rgb(197, 191, 178);
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid rgb(153, 142, 125);
+    
+}
+.login{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    font-size: 20px;
+}
+
+    .photo{
+        width: 200px;
+        height: 300px;
+       margin: 100px 0;
+        background-color: rgb(162, 151, 173);
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+        border: 1px solid rgb(175, 130, 130);
+
+        
+    }
+    .div1{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+    img{
+        width: 150px;
+        height: 200px;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    .h2{
+        position: relative;
+        top:200px;
+        right: 100px;
+        
+    }
+    section div a{
+        font-size: 20px;
+        position: relative;
+        top: 180px;
+        right: 100px;
+    }
+table{
+    width: 1000px;
+    height: 150px;
+margin: 0 150px;
+}
+.table{
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 1000px;
+height: 30px;
+margin:0 150px;
+}
